@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><products>
+  <product>
+    <id>1</id>
+    <name>Pizza</name>
+    <price>
+        <amount>100</amount>
+        <currency>MDL</currency>
+    </price>
+    <available>3</available>
+  </product>
+  <product>
+    <id>2</id>
+    <name>Soup</name>
+    <price>
+        <amount>45</amount>
+        <currency>MDL</currency>
+    </price>
+    <available>2</available>
+  </product>
+  <product>
+    <id>3</id>
+    <name>Salad</name>
+    <price>
+        <amount>35</amount>
+        <currency>MDL</currency>
+    </price>
+    <available>2</available>
+  </product>
+</products>

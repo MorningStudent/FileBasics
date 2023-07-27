@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<order>
+    <client>
+        <name>Deny Manson</name>
+        <phone>069787867</phone>
+    </client>
+    <items>
+        <item>
+            <product_id>1</product_id>
+            <quantity>2</quantity>
+        </item>
+        <item>
+            <product_id>2</product_id>
+            <quantity>1</quantity>
+        </item>
+    </items>
+    <total>
+        <amount>245</amount>
+        <currency>MDL</currency>
+    </total>
+</order>
